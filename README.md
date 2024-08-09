@@ -59,6 +59,7 @@ What base directory should the node use (defaults to ~/.shardeum):
 - After you stake jus Click Verify
 
 # Done
+### Telegram Chanell : https://t.me/airdropnobi
 
 ### Official Tutorial
 - https://docs.shardeum.org/docs/node/run/validator#minimum-hardware-requirements
