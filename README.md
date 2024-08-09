@@ -8,8 +8,10 @@ curl -O https://raw.githubusercontent.com/shardeum/validator-dashboard/main/inst
 ```
 By running this installer, you agree to allow the Shardeum team to collect this data. (y/n)?:
 - Enter y
+
 Do you want to run the web based Dashboard? (y/n):
 - Enter y
+
 Set the password to access the Dashboard:
 - Set your Password
 Enter the port (1025-65536) to access the web based Dashboard (default 8080):
