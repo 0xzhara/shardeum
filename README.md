@@ -55,7 +55,11 @@ What base directory should the node use (defaults to ~/.shardeum):
 
 ### Verifying Validator Task
 ![image](https://github.com/user-attachments/assets/d300c5ad-dc4e-4eb9-aff1-54860715646f)
+- Go to : https://shardeum.org/incentivized-testnet?referral-code=0xzhara
 - After you stake jus Click Verify
+
+### Official Tutorial
+- https://docs.shardeum.org/docs/node/run/validator#minimum-hardware-requirements
 
 
 
