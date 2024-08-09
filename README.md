@@ -58,6 +58,8 @@ What base directory should the node use (defaults to ~/.shardeum):
 - Go to : https://shardeum.org/incentivized-testnet?referral-code=0xzhara
 - After you stake jus Click Verify
 
+# Done
+
 ### Official Tutorial
 - https://docs.shardeum.org/docs/node/run/validator#minimum-hardware-requirements
 
