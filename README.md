@@ -45,11 +45,18 @@ What base directory should the node use (defaults to ~/.shardeum):
 
 ![image](https://github.com/user-attachments/assets/ae131eca-430a-4b38-a154-6601c1d8bc0f)
 - CLick Start Node
+- Wait 15 Minutes until Validator Active
 
 ![image](https://github.com/user-attachments/assets/67836ead-5410-4b3d-ba1a-e04ff1487f3e)
 - Connect Wallet
 - Stake SHM Min 10
 - Faucet SHM https://docs.shardeum.org/docs/faucet/claim
+
+
+### Verifying Validator Task
+![image](https://github.com/user-attachments/assets/d300c5ad-dc4e-4eb9-aff1-54860715646f)
+- After you stake jus Click Verify
+
 
 
 
