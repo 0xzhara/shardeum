@@ -36,3 +36,11 @@ What base directory should the node use (defaults to ~/.shardeum):
 - Enter
 
 ### Done wait download Complete
+
+### 3. Start Validator
+- Open Link on Your browser : https://YOUR_IP:8080/ ( No need to Edit 8080 if you Set Default before )
+
+![image](https://github.com/user-attachments/assets/7b58f78b-1fd2-43d9-ad27-b4593d59a14c)
+- Enter password, your set Before
+
+
