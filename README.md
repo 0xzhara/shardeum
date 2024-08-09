@@ -1,3 +1,7 @@
+# Guide Shardeum Stage 2 Validator Quests
+![image](https://github.com/user-attachments/assets/2a28e97c-31d3-4076-8458-cd1407585af8)
+
+
 ### 1. Install Requiment
 ```lay 
 wget https://raw.githubusercontent.com/0xzhara/shardeum/main/install_shardeum.sh && chmod +x install_shardeum.sh && ./install_shardeum.sh 
