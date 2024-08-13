@@ -62,6 +62,11 @@ What base directory should the node use (defaults to ~/.shardeum):
 - Go to : https://shardeum.org/incentivized-testnet?referral-code=0xzhara
 - After you stake jus Click Verify
 
+### Delete Node
+```lay
+rm -rf .shardeum
+```
+
 # Done
 ### Telegram Chanell : https://t.me/airdropnobi
 
